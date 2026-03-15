@@ -1,64 +1,116 @@
-<h1 align="center">Hi, I'm Shahzaib Khokhar 👋</h1>
+<div align="center">
 
-<p align="center">
-  <em>Flutter & Dart Developer · Pakistan · Learning every day</em>
+```
+░██████╗██╗░░██╗░█████╗░██╗░░██╗███████╗░█████╗░██╗██████╗░
+██╔════╝██║░░██║██╔══██╗██║░░██║╚════██║██╔══██╗██║██╔══██╗
+╚█████╗░███████║███████║███████║░░███╔═╝███████║██║██████╦╝
+░╚═══██╗██╔══██║██╔══██║██╔══██║██╔══╝░░██╔══██║██║██╔══██╗
+██████╔╝██║░░██║██║░░██║██║░░██║███████╗██║░░██║██║██████╔╝
+╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝╚═╝╚═════╝░
+```
+
+# Shahzaib Khokhar
+
+**`Flutter Developer · Dart · Mobile App Developer`**
+
+<p>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/shahzaib-khokhar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
----
+<img src="https://komarev.com/ghpvc/?username=shahzaib-khokhar&color=0175C2&style=for-the-badge&label=PROFILE+VIEWS" />
 
-## About Me
-
-I'm a beginner Flutter developer passionate about building clean, cross-platform mobile applications.
-I believe in writing readable code, learning in public, and growing one commit at a time.
-
-- 🔭 Currently learning: **Flutter** and **Dart**
-- 🌱 Focus areas: UI development, state management, clean architecture
-- 💬 Ask me about: Flutter widgets, Dart basics, getting started with mobile dev
-- 📫 Reach me at: *(add your email or LinkedIn here)*
-- ⚡ Fun fact: Every expert was once a beginner
+</div>
 
 ---
 
-## Tech Stack
+## `$ whoami`
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+```dart
+const shahzaib = {
+  role       : "Flutter Developer (Beginner → Building)",
+  location   : "Pakistan 🇵🇰",
+  focus      : ["Cross-platform mobile apps", "Flutter UI", "Dart fundamentals"],
+  currently  : "Learning Flutter & Dart — one widget at a time",
+  philosophy : "Start small. Ship often. Improve always.",
+};
+```
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahzaib-khokhar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaib-khokhar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+> I'm a beginner Flutter developer on a mission to build clean, fast, and beautiful cross-platform mobile apps. Every line of code is a step forward.
 
 ---
 
-## Projects
+## 🛠 Tech Stack
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🚧 *Coming soon* | First Flutter app in progress | Flutter, Dart |
+### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-*(Will update as I build and push projects)*
+### Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+
+### Currently Exploring
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-## Goals for 2025
+## 🚀 Projects
 
-- [x] Start learning Flutter
-- [ ] Build and publish my first app
+### 🔹 Coming Soon...
+> Currently building my first Flutter application
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+- 🚧 Work in progress — will be pushed here soon
+- Learning widgets, state management & navigation
+- Goal: A fully functional, clean mobile app UI
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahzaib-khokhar&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahzaib-khokhar&show_icons=true&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🎯 Goals
+
+- [x] Start learning Flutter & Dart
+- [ ] Build and deploy my first mobile app
+- [ ] Master state management (Provider / Riverpod)
+- [ ] Integrate Firebase into a Flutter app
 - [ ] Contribute to an open source Flutter project
-- [ ] Master Dart fundamentals
 
 ---
 
-<p align="center">
-  <em>"The best time to start was yesterday. The next best time is now."</em>
-</p>
+## 🤝 Let's Connect
+
+I'm a beginner developer open to learning, collaboration, and guidance from the community. If you're a Flutter dev or have advice — feel free to reach out!
+
+<div align="center">
+
+**[📧 your.email@gmail.com](mailto:your.email@gmail.com)** &nbsp;·&nbsp; **[💼 LinkedIn](https://www.linkedin.com/in/shahzaib-khokhar/)**
+
+<br/>
+
+*"Every expert was once a beginner."*
+
+</div>
